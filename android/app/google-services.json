@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26083051337",
+    "project_id": "personal-finance-tracker-6cd30",
+    "storage_bucket": "personal-finance-tracker-6cd30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26083051337:android:fd6a7517eca0e4937dfc98",
+        "android_client_info": {
+          "package_name": "com.example.personal_finance_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcgMn2E7knFcRVJg-muR2pT_AAk6gRfiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
